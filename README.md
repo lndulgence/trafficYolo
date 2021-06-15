@@ -1,0 +1,1 @@
+This is an altered version of yolov5 that runs an extra classifier layer, but using a decent crop function as the natively implemented one leaves much to be desired. It is meant to run over a specific dataset with a specific set of weigths, but you may modify it as you wish
